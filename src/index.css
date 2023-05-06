@@ -10,18 +10,13 @@ html {
   box-sizing: border-box;
 }
 
-body {
-  background-color: #343434;
-  color: #f1f1f1;
-  text-align: center;
-  padding: 3rem;
+.flex-row {
+  display: flex;
+  flex-direction: row;
 }
 
-.title {
-  font-size: 4rem;
-  letter-spacing: 1rem;
-  width: 60vw;
-  margin: 0 auto;
-  font-weight: 400;
-  font-family: fantasy;
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
 }
