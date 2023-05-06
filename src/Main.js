@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Router, Routes } from 'react-router-dom';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import './Main.css';
 import NavBar from './components/nav-bar/NavBar';
 import Home from './pages/home/Home';
@@ -11,12 +11,12 @@ const Main = () => {
         <div className="main flex-column">
             <BrowserRouter>
                 <NavBar />
-                        <Routes>
-                        <Route path='/react_spa/activities' element={<Activities />} />
-                        <Route path='/react_spa/contacts' element={<Contacts />} />
-                        <Route path='/react_spa/works' element={<Works />} />
-                        <Route path='/react_spa/' element={<Home />} />
-                        </Routes>
+                <Routes>
+                    <Route path='/react_spa/activities' element={<Activities />} />
+                    <Route path='/react_spa/contacts' element={<Contacts />} />
+                    <Route path='/react_spa/works' element={<Works />} />
+                    <Route path='/react_spa/' element={<Home />} />
+                </Routes>
             </BrowserRouter>
         </div>
     )
