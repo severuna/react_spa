@@ -1,17 +1,24 @@
 {
   "files": {
     "main.css": "/react_spa/static/css/main.1eeaa6eb.css",
-    "main.js": "/react_spa/static/js/main.e5600a91.js",
+    "main.js": "/react_spa/static/js/main.a78449a8.js",
     "static/media/conferences_1.webp": "/react_spa/static/media/conferences_1.f7bd17a23bc4a24d827d.webp",
+    "static/media/conferences_7.webp": "/react_spa/static/media/conferences_7.0959aa90c8a80540ecd4.webp",
+    "static/media/conferences_3.jpg": "/react_spa/static/media/conferences_3.8bb13d80225a525059fa.jpg",
+    "static/media/conferences_8.jpg": "/react_spa/static/media/conferences_8.8a7c82915563f314258f.jpg",
+    "static/media/conferences_5.jpg": "/react_spa/static/media/conferences_5.db7dc3980c499b88b354.jpg",
+    "static/media/conferences_2.webp": "/react_spa/static/media/conferences_2.130391ff16c79985ec25.webp",
+    "static/media/conferences_4.jpg": "/react_spa/static/media/conferences_4.d0de1c106a3c09a53bf1.jpg",
+    "static/media/conferences_6.avif": "/react_spa/static/media/conferences_6.a3b575d1af30acdd8c83.avif",
     "static/media/Facebook.svg": "/react_spa/static/media/Facebook.264325658d27daceb52c81ff8a6ef6c7.svg",
     "static/media/Instagram.svg": "/react_spa/static/media/Instagram.92175528b2ca8b7cf7fdd3992843a3ad.svg",
     "static/media/Email.svg": "/react_spa/static/media/Email.b13a0e458a4021952e8b37371ec9be2f.svg",
     "index.html": "/react_spa/index.html",
     "main.1eeaa6eb.css.map": "/react_spa/static/css/main.1eeaa6eb.css.map",
-    "main.e5600a91.js.map": "/react_spa/static/js/main.e5600a91.js.map"
+    "main.a78449a8.js.map": "/react_spa/static/js/main.a78449a8.js.map"
   },
   "entrypoints": [
     "static/css/main.1eeaa6eb.css",
-    "static/js/main.e5600a91.js"
+    "static/js/main.a78449a8.js"
   ]
 }
