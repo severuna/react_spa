@@ -1,0 +1,29 @@
+.author {
+    gap: 3rem;
+    flex-wrap: wrap;
+}
+
+.author .item-title {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.author-head {
+    gap: 3rem;
+    align-items: center;
+}
+
+.author-head__avatar {
+    width: 5rem;
+}
+
+.author-head span {
+    color: gray;
+    font-size: 2rem;
+    text-transform: lowercase;
+}
+
+.author-list {
+    flex-wrap: wrap;
+    gap: 4rem;
+}

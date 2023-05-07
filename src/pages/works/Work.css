@@ -1,0 +1,30 @@
+.work {
+    flex-wrap: wrap;
+    gap: 4rem;
+    padding: 1rem;
+    background-color: white;
+    border-radius: .5rem;
+    box-shadow: 
+    20px 20px 0 -12px #232323,
+    -20px -20px 0 -12px #232323;
+}
+
+.work-img {
+    width: 31rem;
+    height: 25rem;
+    border-radius: .5rem;
+}
+
+.work-title {
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+.work-category {
+    gap: 2rem;
+    align-items: center;
+}
+
+.work-category__pic {
+    width: 3rem;
+}
