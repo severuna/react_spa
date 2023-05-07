@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_spa/static/css/main.1eeaa6eb.css",
-    "main.js": "/react_spa/static/js/main.a78449a8.js",
+    "main.css": "/react_spa/static/css/main.cef6871c.css",
+    "main.js": "/react_spa/static/js/main.9cecb11c.js",
     "static/media/conferences_1.webp": "/react_spa/static/media/conferences_1.f7bd17a23bc4a24d827d.webp",
     "static/media/conferences_7.webp": "/react_spa/static/media/conferences_7.0959aa90c8a80540ecd4.webp",
     "static/media/conferences_3.jpg": "/react_spa/static/media/conferences_3.8bb13d80225a525059fa.jpg",
@@ -9,16 +9,23 @@
     "static/media/conferences_5.jpg": "/react_spa/static/media/conferences_5.db7dc3980c499b88b354.jpg",
     "static/media/conferences_2.webp": "/react_spa/static/media/conferences_2.130391ff16c79985ec25.webp",
     "static/media/conferences_4.jpg": "/react_spa/static/media/conferences_4.d0de1c106a3c09a53bf1.jpg",
+    "static/media/writer_2.svg": "/react_spa/static/media/writer_2.9c57a67a95cff64032e8f9e0a0dd2e54.svg",
     "static/media/conferences_6.avif": "/react_spa/static/media/conferences_6.a3b575d1af30acdd8c83.avif",
+    "static/media/writer_3.svg": "/react_spa/static/media/writer_3.97f54844d5ba006e42e30cf92496e3bb.svg",
+    "static/media/science.svg": "/react_spa/static/media/science.298dbdaf558158371d574940a5ada485.svg",
+    "static/media/writer_4.svg": "/react_spa/static/media/writer_4.35933f13b2ebed52c0cdc59c361f5051.svg",
+    "static/media/writer_1.svg": "/react_spa/static/media/writer_1.162cd20c2593d5ad00827eaab01717de.svg",
     "static/media/Facebook.svg": "/react_spa/static/media/Facebook.264325658d27daceb52c81ff8a6ef6c7.svg",
     "static/media/Instagram.svg": "/react_spa/static/media/Instagram.92175528b2ca8b7cf7fdd3992843a3ad.svg",
+    "static/media/music.svg": "/react_spa/static/media/music.46a5557529d2aa476ce63d34f7c011f4.svg",
+    "static/media/literature.svg": "/react_spa/static/media/literature.4b484e89f70755c10301d6bf4c41c4dd.svg",
     "static/media/Email.svg": "/react_spa/static/media/Email.b13a0e458a4021952e8b37371ec9be2f.svg",
     "index.html": "/react_spa/index.html",
-    "main.1eeaa6eb.css.map": "/react_spa/static/css/main.1eeaa6eb.css.map",
-    "main.a78449a8.js.map": "/react_spa/static/js/main.a78449a8.js.map"
+    "main.cef6871c.css.map": "/react_spa/static/css/main.cef6871c.css.map",
+    "main.9cecb11c.js.map": "/react_spa/static/js/main.9cecb11c.js.map"
   },
   "entrypoints": [
-    "static/css/main.1eeaa6eb.css",
-    "static/js/main.a78449a8.js"
+    "static/css/main.cef6871c.css",
+    "static/js/main.9cecb11c.js"
   ]
 }
