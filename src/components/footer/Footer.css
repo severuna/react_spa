@@ -1,0 +1,47 @@
+.footer {
+    max-width: 100vw;
+    width: 100%;
+    padding: 1.5rem 5rem;
+    gap: 4rem;
+    border-top: 1px solid #232323;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.footer-pages{
+    gap: 1rem;
+}
+
+.footer-pages__item, .footer-pages__title {
+    display: block;
+    color: #242424;
+    font-family: 'Lato';
+    font-weight: 300;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+}
+
+.footer-logo {
+    display: block;
+    color: #242424;
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-family: 'Bruno Ace SC', cursive;
+    padding: .5rem;
+    font-weight: 900;
+    font-size: 3rem;
+}
+
+.footer-media__links {
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.footer-media__link-img {
+    width: 4rem;
+    height: 4rem;
+}

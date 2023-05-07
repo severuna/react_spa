@@ -5,6 +5,7 @@
     gap: 4rem;
     align-items: center;
     justify-content: space-between;
+    height: 8rem;
 }
 
 .header-item:first-child {
