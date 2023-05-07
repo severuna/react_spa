@@ -1,0 +1,23 @@
+.contacts {
+    width: 100%;
+    justify-content: space-around;
+}
+
+.link {
+    gap: 4rem;
+    border-radius: .5rem;
+    background-color: white;
+    width: 25%;
+    padding: 3rem;
+    box-shadow: 
+    20px 20px 0 -12px grey,
+    -20px -20px 0 -12px grey;
+    transition: all 1s ease;
+}
+
+.link:hover {
+    box-shadow: 
+    20px 20px 0 -12px #232323,
+    -20px -20px 0 -12px #232323;
+    transform: scale(1.1);
+}
