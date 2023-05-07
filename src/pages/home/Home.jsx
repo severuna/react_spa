@@ -22,7 +22,7 @@ const Home = () => {
                     <div className='item flex-column'>
                         <img src='https://www.digitalmeetsculture.net/wp-content/uploads/2015/04/article.jpg' alt='write pic' className='item-img' />
                         <h3 className='item-title'>Write</h3>
-                        <p className='item-subtitle'>After studying and analyzing all the information, we write an article where we present our conclusions with mandatory references to all sources that have proven their truth.</p>
+                        <p className='item-subtitle'>We write an article where we present our conclusions with mandatory references to all sources that have proven their truth.</p>
                     </div>
                 </div>
             </div>
