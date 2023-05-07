@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/react_spa/static/css/main.1ca6681b.css",
-    "main.js": "/react_spa/static/js/main.54c45af0.js",
+    "main.css": "/react_spa/static/css/main.1eeaa6eb.css",
+    "main.js": "/react_spa/static/js/main.e5600a91.js",
+    "static/media/conferences_1.webp": "/react_spa/static/media/conferences_1.f7bd17a23bc4a24d827d.webp",
     "static/media/Facebook.svg": "/react_spa/static/media/Facebook.264325658d27daceb52c81ff8a6ef6c7.svg",
     "static/media/Instagram.svg": "/react_spa/static/media/Instagram.92175528b2ca8b7cf7fdd3992843a3ad.svg",
     "static/media/Email.svg": "/react_spa/static/media/Email.b13a0e458a4021952e8b37371ec9be2f.svg",
     "index.html": "/react_spa/index.html",
-    "main.1ca6681b.css.map": "/react_spa/static/css/main.1ca6681b.css.map",
-    "main.54c45af0.js.map": "/react_spa/static/js/main.54c45af0.js.map"
+    "main.1eeaa6eb.css.map": "/react_spa/static/css/main.1eeaa6eb.css.map",
+    "main.e5600a91.js.map": "/react_spa/static/js/main.e5600a91.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ca6681b.css",
-    "static/js/main.54c45af0.js"
+    "static/css/main.1eeaa6eb.css",
+    "static/js/main.e5600a91.js"
   ]
 }
