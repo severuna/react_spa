@@ -1,26 +1,30 @@
-@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
 
 .header {
     padding: 3rem 5rem;
     gap: 4rem;
     align-items: center;
     justify-content: space-between;
-    height: 8rem;
+    height: 12vh;
+    width: 100vw;
+    border-bottom: 1px solid #232323;
+    background-color: #F5F5F5;
+    position: fixed;
+    top: 0;
+    left: 0;
 }
 
-.header-item:first-child {
-    font-weight: 900;
-    font-size: 3rem;
-}
-
-.header-item {
+.header-item, .logo {
     display: block;
     color: #242424;
     font-size: 2rem;
     text-transform: uppercase;
-    font-family: 'Bruno Ace SC', cursive;
     font-weight: 400;
     padding: .5rem;
+}
+
+.logo {
+    font-weight: 900;
+    font-size: 3rem;
 }
 
 .header-item:hover {

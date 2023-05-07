@@ -13,7 +13,7 @@ const Footer = () => {
                 <Link to='react_spa/works' className='footer-pages__item'>Works</Link>
                 <Link to='react_spa/contacts' className='footer-pages__item'>Contacts</Link>
             </div>
-            <Link to='react_spa' className='footer-logo'>R-n-W</Link>
+            <Link to='react_spa' className='logo'>R-n-W</Link>
             <div className='footer-pages flex-column'>
                 <h2 className='footer-pages__title'>Visit our media:</h2>
                 <div className='footer-media__links flex-row'>

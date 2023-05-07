@@ -1,0 +1,59 @@
+.content {
+    padding: 12rem;
+    min-height: 78vh;
+    gap: 3rem;
+    width: 100%;
+    max-width: 100vw;
+}
+
+.title {
+    font-size: 4rem;
+    font-weight: 500;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 2.5rem;
+    word-spacing: 1rem;
+}
+
+.subtitle span {
+    text-decoration: underline;
+}
+
+.content-main {
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+    width: 100%;
+}
+
+.content-main__title {
+    font-size: 3rem;
+}
+
+.container {
+    width: 100%;
+    justify-content: space-between;
+}
+
+.item {
+    width: 31%;
+    gap: 1rem;
+}
+
+.item-img {
+    width: 100%;
+    height: 25rem;
+    border-radius: .5rem;
+}
+
+.item-title {
+    font-size: 2.7rem;
+    text-decoration: underline;
+}
+
+.item-subtitle {
+    font-size: 2.4rem;
+    font-weight: 300;
+}
