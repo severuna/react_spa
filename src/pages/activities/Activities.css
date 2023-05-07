@@ -1,0 +1,23 @@
+.activities {
+    width: 100%;
+    gap: 4rem;
+}
+
+.activities-item {
+    gap: 4rem;
+    padding: 2rem;
+    box-shadow:
+    -26px 26px 0 -18px #F5F5F5,
+    26px -26px 0 -18px #F5F5F5,
+    20px 20px 0 -12px #232323,
+    -20px -20px 0 -12px #232323;
+}
+
+.activities-item__img {
+    width: 30rem;
+    border-radius: .5rem;
+}
+
+.activities-item__description {
+    gap: 3rem;
+}
