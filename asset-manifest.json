@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_spa/static/css/main.f1ab7c05.css",
+    "main.css": "/react_spa/static/css/main.1f1ada6d.css",
     "main.js": "/react_spa/static/js/main.fe4f9791.js",
     "static/media/conferences_1.webp": "/react_spa/static/media/conferences_1.f7bd17a23bc4a24d827d.webp",
     "static/media/conferences_7.webp": "/react_spa/static/media/conferences_7.0959aa90c8a80540ecd4.webp",
@@ -21,11 +21,11 @@
     "static/media/literature.svg": "/react_spa/static/media/literature.4b484e89f70755c10301d6bf4c41c4dd.svg",
     "static/media/Email.svg": "/react_spa/static/media/Email.b13a0e458a4021952e8b37371ec9be2f.svg",
     "index.html": "/react_spa/index.html",
-    "main.f1ab7c05.css.map": "/react_spa/static/css/main.f1ab7c05.css.map",
+    "main.1f1ada6d.css.map": "/react_spa/static/css/main.1f1ada6d.css.map",
     "main.fe4f9791.js.map": "/react_spa/static/js/main.fe4f9791.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1ab7c05.css",
+    "static/css/main.1f1ada6d.css",
     "static/js/main.fe4f9791.js"
   ]
 }
