@@ -15,7 +15,7 @@ const Main = () => {
                 <Routes>
                     <Route path='/react_spa/activities' element={<Activities />} />
                     <Route path='/react_spa/contacts' element={<Contacts />} />
-                    <Route path='/react_spa/works' element={<Works />} />
+                    <Route path='/react_spa/works/*' element={<Works />} />
                     <Route path='/react_spa/' element={<Home />} />
                 </Routes>
                 <Footer />

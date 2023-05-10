@@ -5,6 +5,8 @@ import writer_2 from './img/writer_2.svg';
 import writer_3 from './img/writer_3.svg';
 import writer_4 from './img/writer_4.svg';
 import WorkList from './WorkList';
+import { Outlet, useLocation, Route, Routes } from 'react-router-dom';
+import WorkDetails from './WorkDetails';
 
 const  AUTHOR_LIST = [
     {
@@ -121,11 +123,14 @@ AUTHOR_LIST.forEach((author) => {
 })
 
 const Works = () => {
+
+    const location = useLocation();
+
     return (
         <div className="content flex-column">
             <h1 className='title'>Works</h1>
             <div className='works flex-column'>
-                {elements}
+                {location.pathname === '/react_spa/works/article' ? <Outlet /> : elements}
             </div>
         </div>
     );
