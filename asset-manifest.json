@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_spa/static/css/main.1f1ada6d.css",
-    "main.js": "/react_spa/static/js/main.d3c62a62.js",
+    "main.css": "/react_spa/static/css/main.0326c882.css",
+    "main.js": "/react_spa/static/js/main.68860f7d.js",
     "static/media/conferences_1.webp": "/react_spa/static/media/conferences_1.f7bd17a23bc4a24d827d.webp",
     "static/media/conferences_7.webp": "/react_spa/static/media/conferences_7.0959aa90c8a80540ecd4.webp",
     "static/media/conferences_3.jpg": "/react_spa/static/media/conferences_3.8bb13d80225a525059fa.jpg",
@@ -21,11 +21,11 @@
     "static/media/literature.svg": "/react_spa/static/media/literature.4b484e89f70755c10301d6bf4c41c4dd.svg",
     "static/media/Email.svg": "/react_spa/static/media/Email.b13a0e458a4021952e8b37371ec9be2f.svg",
     "index.html": "/react_spa/index.html",
-    "main.1f1ada6d.css.map": "/react_spa/static/css/main.1f1ada6d.css.map",
-    "main.d3c62a62.js.map": "/react_spa/static/js/main.d3c62a62.js.map"
+    "main.0326c882.css.map": "/react_spa/static/css/main.0326c882.css.map",
+    "main.68860f7d.js.map": "/react_spa/static/js/main.68860f7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f1ada6d.css",
-    "static/js/main.d3c62a62.js"
+    "static/css/main.0326c882.css",
+    "static/js/main.68860f7d.js"
   ]
 }
