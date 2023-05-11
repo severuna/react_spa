@@ -3,12 +3,9 @@ import './Work.css';
 import music from './img/music.svg';
 import literature from './img/literature.svg';
 import science from './img/science.svg';
-import { Link, Route, Routes } from 'react-router-dom';
-import WorkDetails from './WorkDetails';
-import { useLocation } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 const Work = (props) => {
-    const location = useLocation();
 
     let category_img;
 
@@ -21,8 +18,7 @@ const Work = (props) => {
     }
 
     return (
-        <>
-        <Link to={`article`}>
+        <Link to={`/react_spa/works/${props.num}`}>
             <div className='work flex-column'>
                 <img src={props.src} alt={props.theme} className='work-img' />
                 <h3 className='work-title'>{props.theme}</h3>
@@ -32,10 +28,6 @@ const Work = (props) => {
                 </div>
             </div>
         </Link>
-        {/* <Routes>
-            <Route path={`${props.num}`} element={<WorkDetails key={props.num} {...props}/>} />
-        </Routes> */}
-        </>
     );
 };
 

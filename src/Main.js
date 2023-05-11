@@ -6,6 +6,7 @@ import Activities from './pages/activities/Activities';
 import Contacts from './pages/contacts/Contacts';
 import Works from './pages/works/Works';
 import Footer from './components/footer/Footer';
+import WorkDetails from './pages/works/WorkDetails';
 
 const Main = () => {
     return (
@@ -15,7 +16,9 @@ const Main = () => {
                 <Routes>
                     <Route path='/react_spa/activities' element={<Activities />} />
                     <Route path='/react_spa/contacts' element={<Contacts />} />
-                    <Route path='/react_spa/works/*' element={<Works />} />
+                    <Route path='/react_spa/works' element={<Works />}>
+                        <Route path=':articleNum' element={<WorkDetails />} />
+                    </Route>
                     <Route path='/react_spa/' element={<Home />} />
                 </Routes>
                 <Footer />

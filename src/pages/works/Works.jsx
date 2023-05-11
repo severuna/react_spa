@@ -5,10 +5,9 @@ import writer_2 from './img/writer_2.svg';
 import writer_3 from './img/writer_3.svg';
 import writer_4 from './img/writer_4.svg';
 import WorkList from './WorkList';
-import { Outlet, useLocation, Route, Routes } from 'react-router-dom';
-import WorkDetails from './WorkDetails';
+import { Outlet, useLocation } from 'react-router-dom';
 
-const  AUTHOR_LIST = [
+export const  AUTHOR_LIST = [
     {
         id: 0,
         name: 'Corey Hill',
@@ -130,7 +129,7 @@ const Works = () => {
         <div className="content flex-column">
             <h1 className='title'>Works</h1>
             <div className='works flex-column'>
-                {location.pathname === '/react_spa/works/article' ? <Outlet /> : elements}
+                {/[0-9]/.test(location.pathname) ? <Outlet /> : elements}
             </div>
         </div>
     );
